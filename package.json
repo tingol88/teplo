@@ -1,0 +1,24 @@
+{
+  "name": "teplo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tingol88/teplo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tingol88/teplo/issues"
+  },
+  "homepage": "https://github.com/tingol88/teplo#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
